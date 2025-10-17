@@ -1,24 +1,24 @@
 <h1 align="center">👋 Hi, I'm Mehran Ullah</h1>
 
 <p align="center">
-  🚀 <b>AI & Machine Learning Engineer | Python Developer | Computer Software Engineering Student</b><br>
-  💼 Founder of <b>AlgoAces Software House</b><br>
-  📍 Based in Pakistan
+  <b>AI & Machine Learning Engineer | Python Developer | Computer Software Engineering Student</b><br>
+   Founder of <b>AlgoAces Software House</b><br>
+  Based in Pakistan
 </p>
 
 ---
 
-### 💡 About Me
-🎓 I'm a passionate **AI/ML Engineer** and **Python Developer**, focused on building intelligent, data-driven solutions.  
-💻 I love creating systems that combine **machine learning**, **automation**, and **real-world impact**.  
-🌱 Currently exploring **Deep Learning**, **Computer Vision**, and **NLP Applications**.  
-⚙️ I also enjoy designing clean interfaces and deploying AI apps using **Streamlit**, **Flask**, and **Django**.
+### About Me
+ I'm a passionate **AI/ML Engineer** and **Python Developer**, focused on building intelligent, data-driven solutions.  
+ I love creating systems that combine **machine learning**, **automation**, and **real-world impact**.  
+ Currently exploring **Deep Learning**, **Computer Vision**, and **NLP Applications**.  
+ I also enjoy designing clean interfaces and deploying AI apps using **Streamlit**, **Flask**, and **Django**.
 
 ---
 
-### 🧠 My Technical Toolbox
+###  My Technical Toolbox
 
-#### 🐍 Programming Languages
+####  Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
 </p>
 
-#### 🧠 Deep Learning & NLP
+####  Deep Learning & NLP
 <p align="left">
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/NLTK-026A00?logo=nltk&logoColor=white" />
 </p>
 
-#### 🌐 Web & App Development
+####  Web & App Development
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
@@ -61,7 +61,7 @@
 
 ---
 
-### 🧩 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
@@ -91,5 +91,5 @@
 
 ---
 
-<p align="center">✨ "Turning ideas into intelligent systems with AI & Code" ✨</p>
+<p align="center"> "Turning ideas into intelligent systems with AI & Code" </p>
 
