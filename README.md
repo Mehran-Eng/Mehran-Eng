@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Mehran Ullah</h1>
+<h1 align="center"> Hi, I'm Mehran Ullah</h1>
 
 <p align="center">
-  <b>AI & Machine Learning Engineer | Python Developer | Computer Software Engineering Student</b><br>
+  <b> GenAI & Machine Learning Engineer | Deep Learning | N8N Automation | RAG | Computer Software Engineer</b><br>
    Founder of <b>AlgoAces Software House</b><br>
   Based in Pakistan
 </p>
@@ -9,10 +9,10 @@
 ---
 
 ### About Me
- I'm a passionate **AI/ML Engineer** and **Python Developer**, focused on building intelligent, data-driven solutions.  
+ I'm a passionate **GENAI/ML Engineer** , focused on building intelligent, data-driven solutions.  
  I love creating systems that combine **machine learning**, **automation**, and **real-world impact**.  
  Currently exploring **Deep Learning**, **Computer Vision**, and **NLP Applications**.  
- I also enjoy designing clean interfaces and deploying AI apps using **Streamlit**, **Flask**, and **Django**.
+ I also enjoy designing clean interfaces and deploying AI apps using **Langchain**, **Streamlit**, **Flask**, and **Django**.
 
 ---
 
@@ -69,8 +69,8 @@
 | 💬 **AI Personal Assistant (Jarvis)** | Voice/text-based AI assistant with automation features | Python, Web, APIs |
 | ✋ **Real-time Hand Gesture Recognition** | Detects and classifies hand gestures using ML models | Python, OpenCV, MediaPipe |
 | 🏦 **Virtual Bank System** | A banking simulation app for deposit, withdrawal & accounts | Python, Tkinter |
-| 🕒 **Digital Clock with Info Panel** | Displays time, weather, and system info dynamically | Python, Tkinter |
-| 🧮 **Colorful Scientific Calculator** | A GUI-based advanced calculator app | Python, Tkinter |
+|    ** AI-Powered Medical Diagnosis System ** | An intelligent **AI-based healthcare assistant** that predicts possible diseases based on user symptoms.  
+        Built using **Python, Flask, and Machine Learning**, this system analyzes input symptoms, predicts probable diseases, and provides medical advice or precautions.
 
 ---
 
